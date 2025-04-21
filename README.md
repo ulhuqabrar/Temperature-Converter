@@ -45,12 +45,7 @@ temperature-conversion-app/
 
 ## 🔧 How to Run Locally
 
-1. **Download or clone** the repository:
-   ```bash
-   git clone https://github.com/ulhuqabrar/temperature-converter.git
-   ```
-
-2. **Open the folder** and launch `index.html` in any browser:
+**Open the folder** and launch `index.html` in any browser:
    - Double-click the file  
    *or*
    - Use VS Code’s Live Server extension
